@@ -114,7 +114,9 @@ This combines **accuracy** (from keyword) and **flexibility** (from semantic) in
 
 ## 📷 Screenshot
 
-Replace `image1.png` with your working Gradio screenshot if you like!
+# 💰 AI Accounting RAG Assistant
+
+![AI Accounting Assistant](image1.png)
 
 ---
 
